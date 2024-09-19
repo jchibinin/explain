@@ -1,0 +1,6 @@
+GET http://127.0.0.1:5000?text="how are you"
+Content-type: application/json; charset=utf-8
+
+{
+   "text": "синхрофазотрон"
+}
